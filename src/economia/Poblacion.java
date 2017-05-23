@@ -17,6 +17,7 @@ public class Poblacion {
     private List <Sujeto> sujetos;
     private List <Grupo> grupos;
     public void init(){
+        //Inicializamos los sujetos
         
         
     }

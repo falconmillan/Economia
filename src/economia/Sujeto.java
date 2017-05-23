@@ -24,6 +24,7 @@ public class Sujeto {
 
     public Sujeto(String nombre) {
         this.nombre = nombre;
+        this.cartera=1000;
     }
 
     public int getId() {
